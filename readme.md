@@ -1,0 +1,1 @@
+把https://github.com/JetradarMobile/android-snowfall 的下雪动画效果由Kotlin手动转为Java文件，因为这个工程不是很大，就3个kt文件，转为Java后方便后续定制其他效果和工程的维护。
